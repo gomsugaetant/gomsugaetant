@@ -31,7 +31,7 @@ Je suis un ingénieur logiciel passionné par la création d'applications web ro
 * **Frameworks/Bibliothèques (Frontend) :** React, Vue.js
 * * **Frameworks/Bibliothèques (Backend) :** Node.js (Express), Django, Flask
 * **Bases de données :** PostgreSQL, MySQL, MongoDB
-* **Outils & Plateformes :** Git, Docker, AWS (si pertinent), Netlify, Heroku
+* **Outils & Plateformes :** Git, AWS, Netlify, Heroku
 * **Concepts :** API RESTful, CI/CD, Tests Unitaires
 
 ---
