@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Développeur Fullstack passionné 🚀
 
-Je suis un ingénieur logiciel passionné par la création d'applications web robustes et performantes. Avec une expertise en **JavaScript** et **Python**, je m'épanouis dans la résolution de problèmes complexes et la construction de solutions innovantes. Mon objectif est de transformer des idées en produits fonctionnels et efficaces.
+Je suis un passionné par la création d'applications web robustes et performantes. Avec une expertise en **JavaScript** et **Python**, je m'épanouis dans la résolution de problèmes complexes et la construction de solutions innovantes. Mon objectif est de transformer des idées en produits fonctionnels et efficaces.
 
 ---
 
@@ -63,5 +63,10 @@ Je suis un ingénieur logiciel passionné par la création d'applications web ro
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOMSUGAETANT&layout=compact&theme=radical)
 
 ---
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomsugaetant&show_icons=true&locale=en&layout=compact" alt="gomsu gaetant" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomsugaetant&show_icons=true&locale=en" alt="gomsu gaetant" /></p>
 
 <p align="center">Construisons quelque chose d'incroyable ensemble !</p>
