@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Salut 👋, je suis GOMSU GAETANT !
 
-<img width="1408" height="736" alt="Gemini_Generated_Image_yry3aiyry3aiyry3" src="https://github.com/user-attachments/assets/e00f3fb3-5a5c-460f-b924-525d76dffe16" />
-
 
 
 ### Développeur Fullstack passionné 🚀
