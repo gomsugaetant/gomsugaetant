@@ -27,7 +27,7 @@ Je suis un passionné par la création d'applications web robustes et performant
 
 * **Langages :** JavaScript, Python, HTML, CSS
 * **Frameworks/Bibliothèques (Frontend) :** React, Vue.js
-* * **Frameworks/Bibliothèques (Backend) :** Node.js (Express), Django, Flask
+* **Frameworks/Bibliothèques (Backend) :** Node.js (Express), Django, Flask
 * **Bases de données :** PostgreSQL, MySQL, MongoDB
 * **Outils & Plateformes :** Git, AWS, Netlify, Heroku
 * **Concepts :** API RESTful, CI/CD, Tests Unitaires
