@@ -54,6 +54,10 @@ Je suis un passionné par la création d'applications web robustes et performant
 -->
 ---
 
+### En savoir plus
+
+https://gomsugaetant.github.io/me
+
 
 ### Quelques chiffres rapides sur GitHub 📊
 
