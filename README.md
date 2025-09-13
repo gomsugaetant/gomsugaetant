@@ -33,14 +33,6 @@ Je suis un passionné par la création d'applications web robustes et performant
 * **Concepts :** API RESTful, CI/CD, Tests Unitaires
 
 ---
-<!--
-### Ce sur quoi je travaille actuellement 💡
-
-* Actuellement, je développe un projet de [Décrivez brièvement un projet en cours, même personnel].
-* J'apprends également [Mentionnez une technologie ou un concept que vous explorez, par ex. "TypeScript" ou "Kubernetes"].
-
----
--->
 
 ### Retrouvez-moi et contactez-moi 📞
 
@@ -49,10 +41,6 @@ Je suis un passionné par la création d'applications web robustes et performant
 * **youtube :** https://www.youtube.com/@gomsugaetant
 * **X :** https://www.x.com/@gomsugaetant
 * **Email :** mail.gomsugaetant@gmail.com
-* <!--
-* **Portefolio/Site Web :** [Lien vers votre site personnel si vous en avez un]
--->
----
 
 ### En savoir plus
 
