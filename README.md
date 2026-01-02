@@ -40,7 +40,7 @@ Je suis passionné par la création d'applications web robustes et performantes.
 * **facebook :** https://www.facebook.com/gomsugaetant
 * **youtube :** https://www.youtube.com/@gomsugaetant
 * **X :** https://www.x.com/@gomsugaetant
-* **Email :** mail.gomsugaetant@gmail.com
+* **Email :** gg.gomsugaetant@gmail.com
 
 ### En savoir plus
 
