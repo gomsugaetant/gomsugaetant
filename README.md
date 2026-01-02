@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Développeur Fullstack passionné 🚀
 
-Je suis un passionné par la création d'applications web robustes et performantes. Avec une expertise en **JavaScript** et **Python**, je m'épanouis dans la résolution de problèmes complexes et la construction de solutions innovantes. Mon objectif est de transformer des idées en produits fonctionnels et efficaces.
+Je suis passionné par la création d'applications web robustes et performantes. Avec une expertise en **JavaScript** et **Python**, je m'épanouis dans la résolution de problèmes complexes et la construction de solutions innovantes. Mon objectif est de transformer des idées en produits fonctionnels et efficaces.
 
 ---
 
